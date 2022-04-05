@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="display_name" label="Display name" language="en" table="x_797648_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <help/>
+            <hint/>
+            <label>Display name</label>
+            <language>en</language>
+            <name>x_797648_wish_list_wish_item</name>
+            <plural>Display names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-05 20:38:11</sys_created_on>
+            <sys_id>15d420372fa64110c0bad0e62799b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Display name</sys_name>
+            <sys_package display_value="Wish List" source="x_797648_wish_list">61be1c7f2f664110c0bad0e62799b692</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">61be1c7f2f664110c0bad0e62799b692</sys_scope>
+            <sys_update_name>sys_documentation_x_797648_wish_list_wish_item_display_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-05 20:38:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
